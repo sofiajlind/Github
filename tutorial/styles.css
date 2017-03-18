@@ -1,0 +1,28 @@
+div {
+	margin: 30px
+}
+p {
+	font-size: 20px;
+	font-family:
+	font-style: italic;
+}
+
+h1 {
+	text-align: center;
+	color: #339966;
+	border: solid;
+	padding: 50px
+}
+h2 {
+	margin-top: 70px;
+}
+ul {
+	font-size: 20px;
+	margin: 20px;
+	padding: 50px;
+}
+
+	
+.regular-text {
+
+}
