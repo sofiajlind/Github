@@ -21,8 +21,9 @@ a:link {
 	margin-left: 10px;
 	text-decoration: none;
 	padding: 14px 25px;
+	margin-bottom: 60px;
 	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
-	font-size: 18px;
+	font-size: 15px;
 	color: #000000;
 }
 .text.margin {
@@ -83,5 +84,9 @@ a:link {
 
     .fixed {
     	left: 222px;
+    }
+
+    a:link {
+    	font-size: 18px
     }
 }
